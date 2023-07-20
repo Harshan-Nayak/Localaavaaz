@@ -1,10 +1,7 @@
 "use client";
 import React, { useState } from "react";
 
-export const metadata = {
-  title: "Become an Host",
-  description: "Meet and Get Guided",
-};
+
 
 export default function Example() {
   const [name, setName] = useState("");
